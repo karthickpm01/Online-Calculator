@@ -1,3 +1,3 @@
-# Online-Calculator
+# Simple Calculator
 
 Created Using HTML CSS AND JAVASCRIPT
